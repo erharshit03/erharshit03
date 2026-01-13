@@ -40,4 +40,4 @@ Experienced IT professional with **14+ years** of expertise across the full SDLC
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<your-username//www.linkedin.com/in/srivastavaharl free to check out my repositories and collaborate!**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?erharshit03=erharshit03//https://www.linkedin.com/in/srivastavaharshit/ free to check out my repositories and collaborate!**
