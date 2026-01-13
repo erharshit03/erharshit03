@@ -1,5 +1,11 @@
-# Hi there, I'm Harshit Srivastava 👋  
-**Principal System Specialist | IT Solutions | DevOps | Automation**
+
+<div align="center">
+
+<!-- Animated typing effect -->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00D1FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Harshit+Srivastava+%F0%9F%91%8B;Principal+System+Specialist;Cloud+%7C+DevOps+%7C+Automation;Monitoring+%7C+Observability+%7C+SRE)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
