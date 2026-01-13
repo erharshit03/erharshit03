@@ -10,23 +10,10 @@ Experienced IT professional with **14+ years** of expertise across the full SDLC
 ---
 
 ### 🔧 Tech Stack & Skills
-- **Languages & Scripting:** Python, Shell (UNIX/Linux), SQL
-- **DevOps & Cloud:** OpenShift, Jenkins, Containers, Kubernetes
-- **Monitoring Tools:** Grafana, Splunk, Instana
-- **IT Practices:** ITIL Best Practices, Incident & Problem Management
-- **Other:** ServiceNow, Strategic Planning, Leadership
-
----
-
-### 📌 Featured Projects
-- **Grafana/Prometheus Implementation**  
-  Enhanced monitoring across global DHL operations.
-- **IBM Instana POC/POV**  
-  Improved application observability for enterprise systems.
-- **Autosort Project**  
-  Delivered technical solutions for global parcel sorting systems.
-- **SATS Deployment**  
-  Managed deployment in multiple DHL facilities worldwide.
+![Python](https://img.shields.io/badge/Python-3776AB?cripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=whiteo=grafana&logoColor=whitenced monitoring across global DHL operations.
+- **IBM Instana POC/POV** – Improved application observability for enterprise systems.
+- **Autosort Project** – Delivered technical solutions for global parcel sorting systems.
+- **SATS Deployment** – Managed deployment in multiple DHL facilities worldwide.
 
 ---
 
@@ -39,7 +26,5 @@ Experienced IT professional with **14+ years** of expertise across the full SDLC
 
 ---
 
-
 ### 📊 GitHub Stats
-![Harshit's GitHub Stats](httpsanguages](https://github-readme-stats.vercel.app/api/top-langs/?.io/badge/LinkedIn-0077B5?style=for-the-badge&r-the-badge&logo=firefox
-
+![Harshit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=erharshit03&show_iconsame=erharshit03&layoutge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColorx&logoColor=white
